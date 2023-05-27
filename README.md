@@ -10,4 +10,8 @@ The summary statistics for the month of June identify several critical component
 
 ![image](https://github.com/saraglenn/surfs_up/assets/119461431/f259b03e-8869-4b98-b2c4-f1f5957d64af)
 
+### Summary Statistics for December 
 
+The summary statistics for the month of December reveal a slightly different story with a decrease in the average temperature to 71 degrees. 
+
+![image](https://github.com/saraglenn/surfs_up/assets/119461431/c9a948a4-79e0-4dfd-9378-6bd285cef7d9)
