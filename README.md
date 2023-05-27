@@ -4,6 +4,8 @@
 
 The objective of this analysis is to gather information on the temperature trends before opening a surf shop in which the business would be impacted by frequent inclement weather. Temperature data for the months of June and December in Oahu were gathered to determine sustainability of the shop. 
 
+## Results 
+
 ### Summary Statistics for June
 
 The summary statistics for the month of June identify several critical components, including the average temperature being 74.9 degrees, as well as information on standard deviation and quartiles.
