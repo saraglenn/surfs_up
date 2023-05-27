@@ -21,8 +21,11 @@ The summary statistics for the month of December reveal a slightly different sto
 ### Analysis 
 
 The distribution and range of values are compared using the mean, standard deviation, minimum and maximum values, and quartiles. June reported 183 more data points in the calculation for the summary statistics. 
+
 •	The mean temperature between the two months (six months apart) differs only by 3.9 degrees with December being a slightly lower temp. 
+
 •	The standard deviations represent that the temperatures in December have a wider variation from the average temperature than those in June. 
+
 •	The minimum and maximum points provide information about the lowest and highest temperatures. The lowest temperature reported for June was 64 degrees compared to 56 degrees in December. The highest temperature reported for June was 85 degrees compared to only two degrees less in December, 83 degrees. 
 
 
